@@ -1,0 +1,15 @@
+{
+  "name": "it-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "buld": "tailwindcss -i ./style.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./style.css -o ./css/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
