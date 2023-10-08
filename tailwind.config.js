@@ -32,7 +32,11 @@ module.exports = {
       wide: '.025em',
       wider: '0.1em',
     
-    }
+    },
+    backgroundImage: {
+        'videoimg': "url('/img/section_bg01.jpg')",
+        
+      }
     },
   },
   plugins: [],
